@@ -17,4 +17,5 @@ This repository is to track issues on stacks and samples stored within [devfile-
 
 For reporting any issues or asking questions, please [open an issue](https://github.com/devfile-samples/devfile-support/issues/new?assignees=&labels=&template=issue_template.md&title=) in this repository.
 
-To discuss with stack/sample maintainer: [Gitter Chat](https://gitter.im/devfile/community)
+Use the Devfile Community Slack Channel: https://kubernetes.slack.com/archives/C02SX9E5B55 if you have a question rather than a bug or feature request.
+If you haven’t joined the Kubernetes workspace before, follow https://slack.k8s.io/.
